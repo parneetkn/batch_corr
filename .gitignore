@@ -1,0 +1,19 @@
+# Data
+Data/
+
+# ouput 
+output/
+
+# Virtual environment
+# no virtual env present for now
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
