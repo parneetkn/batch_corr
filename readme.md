@@ -72,7 +72,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn neuroCombat
 ### Running the Script
 
 ```bash
-python GREIN_GTEx_ComBat_PCA_Comparison.py
+python batch_correction.py
 ```
 
 ---
